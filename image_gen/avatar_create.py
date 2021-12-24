@@ -79,6 +79,8 @@ def create(userid):
     
     random.choice([all_only(dirname, userid, colors), lines_only(dirname, userid, colors), rectangle_only(dirname, userid, colors), polygon_only(dirname, userid, colors), ellipsis_only(dirname, userid, colors), circles_only(dirname, userid, colors)])
 
+create("smyu24") #CHANGE THIS NAME TO WHATEVER FILE NAME THAT YOU WISH TO CREATE
+
 
 """1. Rename each photo as per user IDs.
 2. Do not store images in database, rather than save them in filesystem and store the image name in database.
