@@ -2,6 +2,8 @@
 
 A Python based geometric image generator
 
+Examples of generated images:
+
 ## Installation
 
 Use the package manager **pip** to install [Pillow](https://pypi.org/project/Pillow/) and [NumPy](https://pypi.org/project/numpy/).
